@@ -1,0 +1,62 @@
+{
+  "bakingConversions": [
+    {
+      "from": "cups",
+      "to": "tablespoons",
+      "conversionFactor": 16
+    },
+    {
+      "from": "tablespoons",
+      "to": "cups",
+      "conversionFactor": 0.0625
+    },
+    {
+      "from": "cups",
+      "to": "milliliters",
+      "conversionFactor": 237
+    },
+    {
+      "from": "milliliters",
+      "to": "cups",
+      "conversionFactor": 0.00423
+    },
+    {
+      "from": "cups",
+      "to": "grams",
+      "conversionFactors": {
+        "flour": 120,
+        "sugar": 200,
+        "butter": 227
+      }
+    },
+    {
+      "from": "grams",
+      "to": "cups",
+      "conversionFactors": {
+        "flour": 0.00833,
+        "sugar": 0.005,
+        "butter": 0.0044
+      }
+    },
+    {
+      "from": "teaspoons",
+      "to": "milliliters",
+      "conversionFactor": 5
+    },
+    {
+      "from": "milliliters",
+      "to": "teaspoons",
+      "conversionFactor": 0.2
+    },
+    {
+      "from": "ounces",
+      "to": "grams",
+      "conversionFactor": 28.3495
+    },
+    {
+      "from": "grams",
+      "to": "ounces",
+      "conversionFactor": 0.035274
+    }
+  ]
+}
